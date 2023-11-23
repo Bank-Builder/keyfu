@@ -45,6 +45,9 @@ The implication of this is that you may carry you keys and secrets around with y
 
 > **WARNING** : `keyfu` permanently modifies your system and so make sure you have examined the script, are fully aware of what it will do and have made the necessary backups before you run any command.<br> **USE AT OWN RISK**!
 
+#### References
+- https://devicetests.com/encrypt-folders-ubuntu
+
 
 ---
 Copyright &copy; 2023, Bank-Builder<br>
